@@ -15,6 +15,7 @@
     "express": "^4.17.1",
     "mongojs": "^3.1.0",
     "mongoose": "^5.12.14",
+    "mongoose-data-seed": "^2.1.6",
     "morgan": "^1.10.0"
   }
 }
